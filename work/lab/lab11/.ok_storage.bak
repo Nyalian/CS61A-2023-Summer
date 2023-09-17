@@ -1,0 +1,6 @@
+'floor_div-correct', (0, 66)
+'eval_and-correct', (512, 66)
+'eval_define-correct', (1024, 66)
+'make-even-correct', (1536, 66)
+'find-correct', (2048, 66)
+'n-ary-correct', (2560, 66)

@@ -1,0 +1,5 @@
+'count_occurrences-correct', (0, 70)
+'amplify-correct', (512, 70)
+'sequence_gen-correct', (1024, 70)
+'stair_ways-correct', (1536, 70)
+'church_generator-correct', (2048, 70)

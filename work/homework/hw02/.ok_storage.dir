@@ -1,0 +1,8 @@
+'product-correct', (0, 70)
+'accumulate-correct', (512, 70)
+'summation_using_accumulate-correct', (1024, 70)
+'product_using_accumulate-correct', (1536, 70)
+'funception-correct', (2048, 70)
+'num_eights-correct', (2560, 70)
+'waves-correct', (3072, 70)
+'count_coins-correct', (3584, 70)
